@@ -1,0 +1,39 @@
+body {
+    
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  background-image: './components/Name_that_background.jpg';
+  background-color: lightblue;
+  
+}
+
+#sectional{
+    background-color: lightblue
+}
+
+img {
+    border-style: solid;
+    border-color: black;
+    
+}
+
+button {
+    font-family: 'Bangers', cursive;
+    font-size: 40px;
+    width: 300px;
+    height: 100px;
+}
+
+container {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  grid-template-rows: 1fr 1fr;
+  align-items: stretch;
+  justify-items: center;
+  grid-gap: 10px;
+  padding-top: 30px;
+}

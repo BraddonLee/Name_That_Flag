@@ -1,0 +1,15 @@
+h1 { 
+  /* text-align: center; */
+  padding: 2.5%;
+  font-family: 'Bangers', cursive;
+  font-size: 75px;
+}
+
+div {
+  align-items: center;
+}
+p {
+  font-family: 'Bangers', cursive;
+  font-size: 50px;
+  color: white;
+}
